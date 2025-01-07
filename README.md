@@ -1,3 +1,3 @@
 # KAU_OSS_class
-Korea Aerospace Univ
+Korea Aerospace Univ\n
 123
